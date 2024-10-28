@@ -1,0 +1,449 @@
+{
+  "\uD83C\uDF72 Milliy taomlar": {
+    "1": {
+      "name": {
+        "🌟 O'zbekcha": "🍲 Osh",
+        "🌐 Русский": "🍲 Плов",
+        "🇬🇧 English": "🍲 Pilaf"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Osh - O'zbekistonning eng mashhur taomlaridan biri, guruch va go'sht bilan tayyorlanadi. Narxi: 25.000 so'm.",
+        "🌐 Русский": "Плов - одно из самых популярных блюд Узбекистана, приготовленное из риса и мяса. Цена: 25,000 сум.",
+        "🇬🇧 English": "Pilaf - One of the most popular dishes of Uzbekistan, made with rice and meat. Price: 25,000 UZS."
+      },
+      "ingredients": "🍵 choy, 🥗 salat",
+      "price": 25000,
+      "img_url": "https://png.klev.club/uploads/posts/2024-05/png-klev-club-zy7f-p-osh-png-30.png"
+    },
+    "2": {
+      "name": {
+        "🌟 O'zbekcha": "🥟 Uyg'ur Manti",
+        "🌐 Русский": "🥟 Уйгурские манты",
+        "🇬🇧 English": "🥟 Uygur Dumplings"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Uyg'ur Manti - yumshoq xamir ichida qiyma va piyoz bilan tayyorlangan, bug'da pishirilgan taom. Narxi: 25.000 so'm.",
+        "🌐 Русский": "Уйгурские манты - блюдо из мягкого теста, фарша и лука, приготовленное на пару. Цена: 25,000 сум.",
+        "🇬🇧 English": "Uygur Dumplings - Steamed dumplings with minced meat and onions in soft dough. Price: 25,000 UZS."
+      },
+      "ingredients": "Qiyma, piyoz, xamir",
+      "price": 25000,
+      "img_url": "https://pazanda.wordpress.com/wp-content/uploads/2017/05/img_3982.png"
+    },
+
+    "3": {
+      "name": {
+        "🌟 O'zbekcha": "🍜 Qovurma Lag'mon",
+        "🌐 Русский": "🍜 Ковурма Лагман",
+        "🇬🇧 English": "🍜 Fried Lagman"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Qovurma Lag'mon - go'sht va lag'mon bilan tayyorlangan mazali taom. Narxi: 28.000 so'm.",
+        "🌐 Русский": "Ковурма Лагман - вкусное блюдо из мяса и лапши. Цена: 28,000 сум.",
+        "🇬🇧 English": "Fried Lagman - Delicious dish made with meat and noodles. Price: 28,000 UZS."
+      },
+      "ingredients": "Go'sht, lag'mon, sabzavotlar",
+      "price": 28000,
+      "img_url": "https://makepedia.uz/wp-content/uploads/2018/10/qovurma-lagmon.jpg"
+    },
+    "4": {
+      "name": {
+        "🌟 O'zbekcha": "🍜 Uyg'ur Lag'mon",
+        "🌐 Русский": "🍜 Уйгурский Лагман",
+        "🇬🇧 English": "🍜 Uygur Lagman"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Uyg'ur Lag'mon - no'xat va ziravorlar bilan tayyorlanadigan, mazali taom. Narxi: 27.000 so'm.",
+        "🌐 Русский": "Уйгурский Лагман - вкусное блюдо, приготовленное с горохом и специями. Цена: 27,000 сум.",
+        "🇬🇧 English": "Uygur Lagman - Tasty dish made with peas and spices. Price: 27,000 UZS."
+      },
+      "ingredients": "Go'sht, ziravorlar",
+      "price": 27000,
+      "img_url": "https://zira.uz/wp-content/uploads/2018/06/uygurskiy-lagman-5.jpg"
+    },
+    "5": {
+      "name": {
+        "🌟 O'zbekcha": "🍲 Qaynatma sho'rva",
+        "🌐 Русский": "🍲 Вареный суп",
+        "🇬🇧 English": "🍲 Boiled Soup"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Qaynatma sho'rva - go'sht va ziravorlar bilan tayyorlangan, issiq va to'yimli sho'rva. Narxi: 25.000 so'm.",
+        "🌐 Русский": "Вареный суп - горячий и сытный суп, приготовленный из мяса и специй. Цена: 25,000 сум.",
+        "🇬🇧 English": "Boiled soup - A hot and hearty soup made with meat and spices. Price: 25,000 UZS."
+      },
+      "ingredients": "Go'sht, ziravorlar",
+      "price": 25000,
+      "img_url": "https://static.xabar.uz/crop/1/3/736_736_95_1302252966.jpg"
+    },
+    "6": {
+      "name": {
+        "🌟 O'zbekcha": "🍲 Moshhurda",
+        "🌐 Русский": "🍲 Мошурда",
+        "🇬🇧 English": "🍲 Moshhurda"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Moshhurda - no'xat va go'shtdan tayyorlanadigan, juda mazali va to'yimli sho'rva noni bilan. Narxi: 20.000 so'm.",
+        "🌐 Русский": "Мошурда - очень вкусный и сытный суп, приготовленный из гороха и мяса. Цена: 20,000 сум.",
+        "🇬🇧 English": "Moshhurda - A very tasty and hearty soup made with peas and meat. Price: 20,000 UZS."
+      },
+      "ingredients": "Go'sht, ziravorlar",
+      "price": 20000,
+      "img_url": "https://zira.uz/wp-content/uploads/2018/08/mashkhurda.jpg"
+    },
+    "7": {
+      "name": {
+        "🌟 O'zbekcha": "🍲 Galipsi sho'rva",
+        "🌐 Русский": "🍲 Галипсийский суп",
+        "🇬🇧 English": "🍲 Galipsi Soup"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Galipsi sho'rva - go'sht va ziravorlar bilan tayyorlangan, qalin va mazali sho'rva noni bilan. Narxi: 25.000 so'm.",
+        "🌐 Русский": "Галипсийский суп - густой и вкусный суп, приготовленный из мяса и специй. Цена: 25,000 сум.",
+        "🇬🇧 English": "Galipsi soup - A thick and delicious soup made with meat and spices. Price: 25,000 UZS."
+      },
+      "ingredients": "Go'sht, ziravorlar",
+      "price": 25000,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS36KTl6P6wNbH3fWhb_Vh5sUkeF5Kujq8OmQ&s"
+    },
+    "8": {
+      "name": {
+        "🌟 O'zbekcha": "🍗 Mol Jarkop",
+        "🌐 Русский": "🍗 Mol Жаркоп",
+        "🇬🇧 English": "🍗 Cow Jarkop"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Tovuq Jarkop - tovuq go'shti bilan tayyorlangan mazali va to'yimli taom. Narxi: 25.000 so'm.",
+        "🌐 Русский": "Куриный Жаркоп - вкусное и сытное блюдо, приготовленное из куриного мяса. Цена: 25,000 сум.",
+        "🇬🇧 English": "Chicken Jarkop - A delicious and hearty dish made with chicken meat. Price: 25,000 UZS."
+      },
+      "ingredients": "Go'sht, ziravorlar",
+      "price": 25000,
+      "img_url": "https://daryo.uz/cache/2022/01/photo_2022-01-06_11-05-07-728x546.jpg"
+    },
+    "9": {
+      "name": {
+        "🌟 O'zbekcha": "🍖 Tushonka",
+        "🌐 Русский": "🍖 Тушенка",
+        "🇬🇧 English": "🍖 Tushonka"
+      },
+      "category": "Milliy taom",
+      "description": {
+        "🌟 O'zbekcha": "Tushonka - go'sht va ziravorlardan tayyorlanadigan, uzoq muddat saqlanishi mumkin bo'lgan taom. Narxi: 30.000 so'm.",
+        "🌐 Русский": "Тушенка - блюдо, приготовленное из мяса и специй, которое может долго храниться. Цена: 30,000 сум.",
+        "🇬🇧 English": "Tushonka - A dish made with meat and spices that can be stored for a long time. Price: 30,000 UZS."
+      },
+      "ingredients": "Go'sht, ziravorlar",
+      "price": 30000,
+      "img_url": "https://t3.ftcdn.net/jpg/01/62/91/22/360_F_162912295_jqvvdRKTZ1j5Jm4qfUi4DZ0z3SgByFPX.jpg"
+    }
+  },
+  "🍹 Yaxna ichimliklar": {
+    "1": {
+      "name": {
+        "🌟 O'zbekcha": "🍹 Coca-cola",
+        "🌐 Русский": "🍹 Кока-кола",
+        "🇬🇧 English": "🍹 Coca-Cola"
+      },
+      "category": "🍹 Yaxna ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Sovuq va gazli Coca-Cola ichimligi, qizil rangda va shirin ta'mga ega. Narxi: 11.000 so'm.",
+        "🌐 Русский": "Холодный и газированный напиток Coca-Cola, красного цвета и сладкого вкуса. Цена: 11,000 сум.",
+        "🇬🇧 English": "Cold and fizzy Coca-Cola drink, red in color and sweet in taste. Price: 11.000 UZS."
+      },
+      "ingredients": "Chai yaproqlari, suv, shakar",
+      "price": 11000,
+      "img_url": "https://api.lochin.uz/media/file/image/2021-03/f97bbe8d-63bb-4bab-99af-97c4a99c7be3.jpg.500x500_q85_crop-scale.jpg"
+    },
+    "2": {
+      "name": {
+        "🌟 O'zbekcha": "🍹 Fanta",
+        "🌐 Русский": "🍹 Фанта",
+        "🇬🇧 English": "🍹 Fanta"
+      },
+      "category": "🍹 Yaxna ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Sovuq va gazli Fanta, mevali va qizil rangda shirin ichimlik. Narxi: 10.000 so'm.",
+        "🌐 Русский": "Холодный и газированный напиток Fanta, фруктового и красного цвета, сладкий. Цена: 10,000 сум.",
+        "🇬🇧 English": "Cold and fizzy Fanta, a fruity sweet drink in red color. Price: 10.000 UZS."
+      },
+      "ingredients": "Qahva, suv, shakar",
+      "price": 10000,
+      "img_url": "https://www.coca-cola.com/content/dam/onexp/uz/uz/product-images/uz_fanta_prod_fanta-orange.jpg"
+    },
+    "3": {
+      "name": {
+        "🌟 O'zbekcha": "🍹 Pepsi",
+        "🌐 Русский": "🍹 Пепси",
+        "🇬🇧 English": "🍹 Pepsi"
+      },
+      "category": "🍹 Yaxna ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Sovuq va gazli Pepsi, kuchli shirinlik va mustahkam ta'mga ega ichimlik. Narxi: 10.000 so'm.",
+        "🌐 Русский": "Холодный и газированный напиток Pepsi, с сильной сладостью и крепким вкусом. Цена: 10,000сум.",
+        "🇬🇧 English": "Cold and fizzy Pepsi, a drink with strong sweetness and solid taste. Price: 10.000 UZS."
+      },
+      "ingredients": "Sug'oriluvchi suv, shakar, gaz",
+      "price": 10000,
+      "img_url": "https://api.lochin.uz/media/file/image/2021-03/d2c0089b-a4b9-4e85-82a8-71dbc667b6e0.jpg.500x500_q85_crop-scale.jpg"
+    },
+    "4": {
+      "name": {
+        "🌟 O'zbekcha": "🍹 Ice tea",
+        "🌐 Русский": "🍹 Айси чай",
+        "🇬🇧 English": "🍹 Ice Tea"
+      },
+      "category": "🍹 Yaxna ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Sovuq va tozalovchi Ice Tea ichimligi, yangi va mazali ta'm. Narxi: 6.000 so'm.",
+        "🌐 Русский": "Холодный и очищающий напиток Айс Ти, свежий и вкусный. Цена: 6.000 сум.",
+        "🇬🇧 English": "Cold and refreshing Ice Tea drink, fresh and tasty. Price: 6.000 UZS."
+      },
+      "ingredients": "Suv",
+      "price": 6000,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8mPf4WDJE7fycM2kLkW_dXyTlV9Dxw4pDw&s"
+    },
+    "5": {
+      "name": {
+        "🌟 O'zbekcha": "🍹 Flavis",
+        "🌐 Русский": "🍹 Флавис",
+        "🇬🇧 English": "🍹 Flavis"
+      },
+      "category": "🍹 Yaxna ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Sovuq va tozalovchi Flavis ichimligi, yangilanuvchi ta'mga ega. Narxi: 7.000 so'm.",
+        "🌐 Русский": "Холодный и очищающий напиток Флавис, со свежим вкусом. Цена: 7.000 сум.",
+        "🇬🇧 English": "Cold and refreshing Flavis drink, has a revitalizing taste. Price: 7.000 UZS."
+      },
+      "ingredients": "Suv",
+      "price": 7000,
+      "img_url": "https://pbs.twimg.com/media/GLXin6WacAAd7hF?format=jpg&name=large"
+    },
+    "6": {
+      "name": {
+        "🌟 O'zbekcha": "🍹 Tropik",
+        "🌐 Русский": "🍹 Тропик",
+        "🇬🇧 English": "🍹 Tropik"
+      },
+      "category": "🍹 Yaxna ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Sovuq va tozalovchi Tropik ichimligi, yangi ta'mga ega. Narxi: 6.000 so'm.",
+        "🌐 Русский": "Холодный и очищающий напиток Тропик, со свежим вкусом. Цена: 6.000 сум.",
+        "🇬🇧 English": "Cold and refreshing Tropik drink, has a fresh taste. Price: 6.000 UZS."
+      },
+      "ingredients": "Suv",
+      "price": 6000,
+      "img_url": "https://yukber.uz/image/cache/catalog/product/YK0183/YK0183_1-700x700.jpg"
+    },
+    "7": {
+      "name": {
+        "🌟 O'zbekcha": "🍹 Mors 2l",
+        "🌐 Русский": "🍹 Морс 2л",
+        "🇬🇧 English": "🍹 Mors 2l"
+      },
+      "category": "🍹 Yaxna ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Sovuq va tozalovchi Mors ichimligi, yangi va mazali. Narxi: 3.000 so'm.",
+        "🌐 Русский": "Освежающий и очищающий напиток Морс, свежий и вкусный. Цена: 3.000 сум.",
+        "🇬🇧 English": "Refreshing and cleansing Mors drink, fresh and tasty. Price: 3.000 UZS."
+      },
+      "ingredients": "Suv",
+      "price": 3000,
+      "img_url": "https://bozorcom.ams3.cdn.digitaloceanspaces.com/media/filer_public/ed/58/ed58a4d8-37c0-4f32-af7c-8dfb651a9048/mega-mors-bochka-2-l.jpg"
+    }
+  },
+  "☕ Qaynoq ichimliklar": {
+    "1": {
+      "name": {
+        "🌟 O'zbekcha": "☕ Qora Kofe",
+        "🌐 Русский": "☕ Чёрный Кофе",
+        "🇬🇧 English": "☕ Black Coffee"
+      },
+      "category": "☕ Qaynoq ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "An'anaviy qora kofe, kuchli va mazali. Narxi: 5.000 so'm.",
+        "🌐 Русский": "Традиционный черный кофе, крепкий и вкусный. Цена: 5.000 сум.",
+        "🇬🇧 English": "Traditional black coffee, strong and tasty. Price: 5.000 UZS."
+      },
+      "ingredients": "Kofe, suv",
+      "price": 5000,
+      "img_url": "https://img.postershop.me/6520/a44513bc-1ad6-4ead-9aae-62ba80af27eb_image.jpg"
+    },
+    "2": {
+      "name": {
+        "🌟 O'zbekcha": "☕ Sutli Kofe",
+        "🌐 Русский": "☕ Кофе с Молоком",
+        "🇬🇧 English": "☕ Coffee with Milk"
+      },
+      "category": "☕ Qaynoq ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Qora kofe ustiga sut qo'shiladi, yumshoq va mazali. Narxi: 5.000 so'm.",
+        "🌐 Русский": "Черный кофе с добавлением молока, мягкий и вкусный. Цена: 5.000 сум.",
+        "🇬🇧 English": "Black coffee with added milk, soft and tasty. Price: 5.000 UZS."
+      },
+      "ingredients": "Kofe, sut",
+      "price": 5000,
+      "img_url": "https://www.odam.uz/public/upload/media/posts/2017-07/13/qanday-qilib-uy-sharoitida-kofeda-chizish-mumkin_1499942004-b.jpg"
+    },
+    "3": {
+      "name": {
+        "🌟 O'zbekcha": "☕ Kapuchino",
+        "🌐 Русский": "☕ Капучино",
+        "🇬🇧 English": "☕ Cappuccino"
+      },
+      "category": "☕ Qaynoq ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Kofe va sutni aralashtirib tayyorlanadi, yuqori qismida ko'pik bilan. Narxi: 6000 so'm.",
+        "🌐 Русский": "Приготовленный из кофе и молока, с пенкой сверху. Цена: 6.000 сум.",
+        "🇬🇧 English": "Made by mixing coffee and milk, topped with foam. Price: 6.000 UZS."
+      },
+      "ingredients": "Kofe, sut, ko'pik",
+      "price": 6000,
+      "img_url": "https://www.philips.com/c-dam/b2c/master/experience/ho/philips-chef/recipe/drinks-and-ice-creams/delicious-cappuccino/delicious-cappuccino-thumb.jpg"
+    },
+    "4": {
+      "name": {
+        "🌟 O'zbekcha": "☕ Qora Choy",
+        "🌐 Русский": "☕ Чёрный Чай",
+        "🇬🇧 English": "☕ Black Tea"
+      },
+      "category": "☕ Qaynoq ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "An'anaviy qora choy, iliq va mazali. Narxi: 5000 so'm.",
+        "🌐 Русский": "Традиционный черный чай, теплый и вкусный. Цена: 5000 сум.",
+        "🇬🇧 English": "Traditional black tea, warm and tasty. Price: 5000 UZS."
+      },
+      "ingredients": "Choy yaproqlari, suv",
+      "price": 5000,
+      "img_url": "https://xabar.uz/static/crop/1/2/920__95_1223447726.jpg"
+    },
+    "5": {
+      "name": {
+        "🌟 O'zbekcha": "☕ Kok Choy",
+        "🌐 Русский": "☕ Зелёный Чай",
+        "🇬🇧 English": "☕ Green Tea"
+      },
+      "category": "☕ Qaynoq ichimliklar",
+      "description": {
+        "🌟 O'zbekcha": "Yashil choy, yangi va mazali. Narxi: 5000 so'm.",
+        "🌐 Русский": "Зеленый чай, свежий и вкусный. Цена: 5000 сум.",
+        "🇬🇧 English": "Green tea, fresh and tasty. Price: 5000 UZS."
+      },
+      "ingredients": "Kok yaproqlari, suv",
+      "price": 5000,
+      "img_url": "https://shifo.uz/upload/iblock/30e/30e01861d81bf6dea053356bf6db9eff.jpg"
+    }
+  },
+  "🥗 Salatlar": {
+    "1": {
+      "name": {
+        "🌟 O'zbekcha": "🥗 Achiq-chuchik",
+        "🌐 Русский": "🥗 Острый Салат",
+        "🇬🇧 English": "🥗 Spicy Salad"
+      },
+      "category": "🥗 Salat",
+      "description": {
+        "🌟 O'zbekcha": "Pomidor, bodring va yangi o'tlar bilan tayyorlangan, yengil va mazali salat. Salatga zaytun moyi va tuz qo'shiladi, bu esa unga o'ziga xos lazzat beradi. Yozgi taom sifatida juda mos keladi. Narxi: 5.000 so'm.",
+        "🌐 Русский": "Острый салат - приготовленный с помидорами, огурцами и свежими травами, легкий и вкусный. В салат добавляется оливковое масло и соль, что придает ему особый вкус. Отлично подходит как летнее блюдо. Цена: 5,000 сум.",
+        "🇬🇧 English": "Spicy Salad - made with tomatoes, cucumbers, and fresh herbs, light and tasty. Olive oil and salt are added to the salad, giving it a unique flavor. Very suitable as a summer dish. Price: 5,000 UZS."
+      },
+      "ingredients": "Pomidor, bodring, piyoz, ziravorlar, kukatlar",
+      "price": 5000,
+      "img_url": "https://cdn.trt.net.tr/images/xlarge/rectangle/6d79/d11c/d7de/5d760d66de057.jpg?time=1725646513"
+    },
+    "2": {
+      "name": {
+        "🌟 O'zbekcha": "🥗 Tuzlama",
+        "🌐 Русский": "🥗 Маринованные Овощи",
+        "🇬🇧 English": "🥗 Pickled Vegetables"
+      },
+      "category": "🥗 Salat",
+      "description": {
+        "🌟 O'zbekcha": "Tuzlangan Sabzavotlar - karam, pomidor va bodringlardan tayyorlanadi. Narxi: 5.000 so'm.",
+        "🌐 Русский": "Маринованные овощи - приготовленные из моркови и огурцов, маринованных с чесноком и уксусом. Цена: 5.000 сум.",
+        "🇬🇧 English": "Pickled Vegetables - made from carrots and cucumbers pickled with garlic and vinegar. Price: 5.000 UZS."
+      },
+      "ingredients": "Sabzi, bodring, sarimsoq, sirka",
+      "price": 5000,
+      "img_url": "https://xabar.uz/static/crop/7/9/736_736_95_793429838.jpg"
+    }
+  },
+  "\uD83C\uDF71 Maxsus taklif": {
+    "1": {
+      "name": {
+        "🌟 O'zbekcha": "🍱 Osh set",
+        "🌐 Русский": "🍱 Набор Плов",
+        "🇬🇧 English": "🍱 Pilaf Set"
+      },
+      "category": "\uD83C\uDF71 Maxsus taklif",
+      "description": {
+        "🌟 O'zbekcha": "Osh set \n\nTarkibi:\nOsh\nNon\nChoy\nSalat\n\nNarxi: 27 000 so'm",
+        "🌐 Русский": "Набор Плов \n\nСостав:\nПлов\nХлеб\nЧай\nСалат\n\nЦена: 27 000 сум",
+        "🇬🇧 English": "Pilaf Set \n\nContains:\nPilaf\nBread\nTea\nSalad\n\nPrice: 27,000 UZS"
+      },
+      "ingredients": "Osh, non, choy, salat",
+      "price": 27000,
+      "img_url": "https://img.freepik.com/premium-photo/traditional-uzbek-oriental-cuisine-rice-with-meat-plov-blue-hair-shadow-modern-style-high-quality-photo_109994-1261.jpg"
+    },
+    "2": {
+      "name": {
+        "🌟 O'zbekcha": "🍱 Moshhurda set",
+        "🌐 Русский": "🍱 Набор Машхурда",
+        "🇬🇧 English": "🍱 Mashhurda Set"
+      },
+      "category": "\uD83C\uDF71 Maxsus taklif",
+      "description": {
+        "🌟 O'zbekcha": "Moshhurda set \n\nTarkibi:\nMoshhurda\nNon\nQatiq\nChoy\nQalampir va Ko'katlar\n\nNarxi: 30 000 so'm",
+        "🌐 Русский": "Набор Машхурда \n\nСостав:\nМашхурда\nХлеб\nКатык\nЧай\nПерец и зелень\n\nЦена: 30 000 сум",
+        "🇬🇧 English": "Mashhurda Set \n\nContains:\nMashhurda (mung bean soup)\nBread\nYogurt\nTea\nPepper and Greens\n\nPrice: 30,000 UZS"
+      },
+      "ingredients": "Moshhurda, non, qatiq, choy, qalampir va ko'katlar",
+      "price": 30000,
+      "img_url": "https://en-chatelaine.mblycdn.com/uploads/ench/2022/09/persian-style-mung-bean-soup-recipe-social.jpg"
+    },
+    "3": {
+      "name": {
+        "🌟 O'zbekcha": "🍱 Qovurma Lag'mon set",
+        "🌐 Русский": "🍱 Набор Жареный Лагман",
+        "🇬🇧 English": "🍱 Fried Lagman Set"
+      },
+      "category": "\uD83C\uDF71 Maxsus taklif",
+      "description": {
+        "🌟 O'zbekcha": "Qovurma Lag'mon set \n\nTarkibi:\nQovurma lag'mon\nSalat\nNon\nChoy\n\nNarxi: 30 000 so'm",
+        "🌐 Русский": "Набор Жареный Лагман \n\nСостав:\nЖареная лапша\nСалат\nХлеб\nЧай\n\nЦена: 30 000 сум",
+        "🇬🇧 English": "Fried Lagman Set \n\nContains:\nFried Lagman\nSalad\nBread\nTea\n\nPrice: 30,000 UZS"
+      },
+      "ingredients": "Qovurma lag'mon, salat, non, choy",
+      "price": 30000,
+      "img_url": "https://images.immediate.co.uk/production/volatile/sites/30/2023/08/Laghman--274a6bf.jpg?resize=900%2C471"
+    },
+    "4": {
+      "name": {
+        "🌟 O'zbekcha": "🍱 Mol jarkob set",
+        "🌐 Русский": "🍱 Набор Жаркоп с Говядиной",
+        "🇬🇧 English": "🍱 Beef Jarkop Set"
+      },
+      "category": "\uD83C\uDF71 Maxsus taklif",
+      "description": {
+        "🌟 O'zbekcha": "Mol jarkob set \n\nTarkibi:\nMol go'shti jarkob\nSalat\nNon\nChoy\n\nNarxi: 30 000 so'm",
+        "🌐 Русский": "Набор Жаркоп с Говядиной \n\nСостав:\nГовяжий Жаркоп\nСалат\nХлеб\nЧай\n\nЦена: 30 000 сум",
+        "🇬🇧 English": "Beef Jarkop Set \n\nContains:\nBeef Jarkop\nSalad\nBread\nTea\n\nPrice: 30,000 UZS"
+      },
+      "ingredients": "Mol jarkob, salat, non, choy",
+      "price": 30000,
+      "img_url": "https://static1.squarespace.com/static/5ba533bc8dfc8c614b5e81fd/5ba53e89104c7b10914c2e4a/5d55baeb5305170001e34ec3/1570049049321/Photo%2BAug%2B17%252C%2B11%2B15%2B31%2BPM.jpg?format=1500w"
+    }
+  }
+}
+
+
+
+
